@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#navbar{
+    display: flex;
+    background-color: black;
+}
+#div-navbar-2{
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-left: 100px;
+    justify-content: space-between;
+}
+#div-navbar-3{
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-left: 500px;
+}
+#div-navbar-1{
+    display: flex;
+    align-items: center;
+    color: white;
+}
